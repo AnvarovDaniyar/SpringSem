@@ -15,6 +15,7 @@ import java.io.File;
 /**
  * Класс конфигурации интеграции
  */
+
 @Configuration
 public class IntegrationConfiguration {
     // Канал от входных данных до трансформера

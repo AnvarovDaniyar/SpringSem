@@ -14,6 +14,7 @@ import java.time.LocalDateTime;
  * - Содержимое (не может быть пустым)(тип - String)
  * - Дата создания (автоматически устанавливается при создании заметки)(тип - LocalDateTime)
  */
+
 @Entity
 @Data
 @Table(name = "notes")
